@@ -3,12 +3,22 @@
         "PORT": 3000,
         "MONGODB_URI": "mongodb+srv://Admin:Sargent9@cluster0-eq9a8.mongodb.net/MEANStackDB",
         "JWT_SECRET": "SECRET#123",
-        "JWT_EXP": "10m"
+        "JWT_EXP": "10m",
+        "twilio_friendly_name": "CalisotaMeanKey",
+        "twilio_sid": "SKb9ff8295bb7edc9ea4bc569770ca9d9a",
+        "twilio_key_type": "Standard",
+        "twilio_secret": "GRhLOu2tNX2rdw4IjAUZLPPawynvBX5W",
+        "twilio_from_number": "+15017122661"
     },
     "production": {
         "PORT": 3000,
         "MONGODB_URI": "mongodb://localhost:27017/MEANStackDB",
         "JWT_SECRET": "SECRET#123",
-        "JWT_EXP": "2m"
+        "JWT_EXP": "2m",
+        "twilio_friendly_name": "CalisotaMeanKey",
+        "twilio_sid": "SKb9ff8295bb7edc9ea4bc569770ca9d9a",
+        "twilio_key_type": "Standard",
+        "twilio_secret": "GRhLOu2tNX2rdw4IjAUZLPPawynvBX5W",
+        "twilio_from_number": "+15017122661"
     }
 }

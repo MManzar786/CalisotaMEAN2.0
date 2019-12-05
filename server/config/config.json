@@ -5,9 +5,9 @@
         "JWT_SECRET": "SECRET#123",
         "JWT_EXP": "10m",
         "twilio_friendly_name": "CalisotaMeanKey",
-        "twilio_sid": "SKb9ff8295bb7edc9ea4bc569770ca9d9a",
+        "TWILIO_ACCOUNT_SID": "SKb9ff8295bb7edc9ea4bc569770ca9d9a",
         "twilio_key_type": "Standard",
-        "twilio_secret": "GRhLOu2tNX2rdw4IjAUZLPPawynvBX5W",
+        "TWILIO_AUTH_TOKEN": "GRhLOu2tNX2rdw4IjAUZLPPawynvBX5W",
         "twilio_from_number": "+15017122661"
     },
     "production": {
@@ -16,9 +16,9 @@
         "JWT_SECRET": "SECRET#123",
         "JWT_EXP": "2m",
         "twilio_friendly_name": "CalisotaMeanKey",
-        "twilio_sid": "SKb9ff8295bb7edc9ea4bc569770ca9d9a",
+        "TWILIO_ACCOUNT_SID": "SKb9ff8295bb7edc9ea4bc569770ca9d9a",
         "twilio_key_type": "Standard",
-        "twilio_secret": "GRhLOu2tNX2rdw4IjAUZLPPawynvBX5W",
+        "TWILIO_AUTH_TOKEN": "GRhLOu2tNX2rdw4IjAUZLPPawynvBX5W",
         "twilio_from_number": "+15017122661"
     }
 }
